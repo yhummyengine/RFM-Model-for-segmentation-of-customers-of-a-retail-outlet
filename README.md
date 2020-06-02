@@ -1,0 +1,1 @@
+# RFM-Model-for-segmentation-of-customers-of-a-retail-outlet
